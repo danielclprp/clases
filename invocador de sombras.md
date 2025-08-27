@@ -57,7 +57,7 @@ Cada vez que ganas un nivel de Invocador de Sombras, puedes reemplazar una forma
 | 4° | +2 | Mejora de Característica | 6 (4 1°, 2 2°) | 4 | 3 | - | - | - | - | - | - | - |
 | 5° | +3 | Formas de Sombra de nivel 3 | 7 (4 1°, 2 2°, 1 3°) | 4 | 3 | 2 | - | - | - | - | - | - |
 | 6° | +3 | Protección Sombría | 8 (4 1°, 3 2°, 1 3°) | 4 | 3 | 3 | - | - | - | - | - | - |
-| 7° | +3 | Formas de Sombra Mejoradas | 9 (4 1°, 3 2°, 2 3°, 1 4°) | 4 | 3 | 3 | 1 | - | - | - | - | - |
+| 7° | +3 | Formas de Sombra Mejoradas | 9 (4 1°, 3 2°, 1 3°, 1 4°) | 4 | 3 | 3 | 1 | - | - | - | - | - |
 | 8° | +3 | Mejora de Característica | 10 (4 1°, 3 2°, 2 3°, 1 4°) | 4 | 3 | 3 | 2 | - | - | - | - | - |
 | 9° | +4 | Invocación Múltiple | 11 (4 1°, 3 2°, 3 3°, 1 4°) | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
 | 10° | +4 | Infusión Sombría | 12 (4 1°, 3 2°, 3 3°, 1 4°, 1 5°) | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
