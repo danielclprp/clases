@@ -25,14 +25,6 @@ Comienzas con el siguiente equipo, además del equipo otorgado por tu trasfondo:
 - (a) un paquete de erudito o (b) un paquete de explorador
 - Armadura de cuero y dos dagas
 
-## Esencia Sombría
-
-Al nivel 1, obtienes la capacidad de canalizar tu fuerza vital en criaturas de sombra. Tu capacidad para mantener estas sombras está representada por Puntos de Sombra.
-
-Tienes una cantidad de Puntos de Sombra igual a tu nivel de Invocador de Sombras + tu modificador de Inteligencia (mínimo de 1). Estos puntos se recuperan cuando terminas un descanso prolongado.
-
-Cuando una de tus criaturas de sombra recibe daño, puedes usar tu reacción para gastar Puntos de Sombra iguales a la mitad del daño recibido (redondeado hacia abajo) para prevenir ese daño. Si no tienes suficientes Puntos de Sombra restantes, sufres la diferencia como daño psíquico que no puede ser reducido o prevenido de ninguna manera.
-
 ## Invocación de Sombras
 
 Al nivel 1, aprendes a conjurar sombras que luchan en tu nombre. Estas sombras son manifestaciones de tu voluntad que reciben forma semi-corpórea.
