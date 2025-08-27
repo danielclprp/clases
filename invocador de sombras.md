@@ -31,7 +31,7 @@ Al nivel 1, aprendes a conjurar sombras que luchan en tu nombre. Estas sombras s
 
 Como una acción, puedes gastar un espacio de hechizo para invocar una criatura de sombra. El nivel de la criatura de sombra no puede exceder el nivel del espacio de hechizo gastado. Comienzas conociendo tres criaturas de sombra de nivel 1 (ver Catálogo de Sombras).
 
-Cuando invocas una criatura de sombra, aparece en un espacio desocupado dentro de 30 pies de ti. La sombra actúa en tu iniciativa pero toma su turno inmediatamente después del tuyo. Obedece tus comandos mentales (no requiere acción), y si no emites ningún comando, se defiende a sí misma pero no realiza otras acciones.
+Cuando invocas una criatura de sombra, aparece en un espacio desocupado dentro de 15 pies de ti. La sombra actúa en tu iniciativa pero toma su turno inmediatamente después del tuyo. Obedece tus comandos mentales (no requiere acción), y si no emites ningún comando, se defiende a sí misma pero no realiza otras acciones.
 
 Puedes tener un máximo de criaturas de sombra activas a la vez igual a tu bonificador de competencia. Si excederías este número, debes descartar una de tus sombras activas como parte de la acción de invocación.
 
