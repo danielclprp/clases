@@ -65,6 +65,50 @@
   - **Garra:** Ataque con Arma Cuerpo a Cuerpo: +5 para golpear, alcance 5 pies, un objetivo. Impacto: 5 (1d4 + 3) de daño cortante.
   - **Invisibilidad:** El diablillo se vuelve invisible mágicamente hasta que ataque o hasta que su concentración termine (como si estuviera concentrándose en un hechizo). Cualquier equipo que el diablillo lleve puesto o cargue se vuelve invisible con él.
 
+**Murciélago de Sombra**
+- Bestia sombría diminuta, sin alineamiento
+- CA: 13
+- PG: 6 (2d4 + 1)
+- Velocidad: 5 pies, volar 40 pies
+- FUE: 2 (-4), DES: 16 (+3), CON: 12 (+1), INT: 2 (-4), SAB: 12 (+1), CAR: 5 (-3)
+- Habilidades: Percepción +3
+- Sentidos: ecolocalización 30 pies, visión en la oscuridad 60 pies
+- **Chillido Cegador (1/día):** Como acción, todos los enemigos a 10 pies deben superar una salvación de Constitución CD 11 o quedar cegados hasta su siguiente turno.
+- **Acciones:**
+  - **Mordisco:** +5 al ataque, 1d4+3 daño perforante.
+
+**Rata de Sombra**
+- Bestia sombría diminuta, sin alineamiento
+- CA: 12
+- PG: 5 (2d4)
+- Velocidad: 30 pies
+- FUE: 3 (-4), DES: 15 (+2), CON: 10 (+0), INT: 2 (-4), SAB: 10 (+0), CAR: 6 (-2)
+- Habilidades: Sigilo +6
+- **Enjambre:** Puede compartir espacio con criaturas aliadas.
+- **Acciones:**
+  - **Mordisco:** +4 al ataque, 1d6+2 daño perforante.
+
+**Mono de Tinieblas**
+- Bestia sombría pequeña, sin alineamiento
+- CA: 13
+- PG: 7 (2d6)
+- Velocidad: 30 pies, trepar 30 pies
+- FUE: 6 (-2), DES: 16 (+3), CON: 10 (+0), INT: 4 (-3), SAB: 12 (+1), CAR: 7 (-2)
+- Habilidades: Atletismo +2, Sigilo +5
+- **Robo Ágil:** Como acción adicional, puede intentar robar un objeto pequeño (prueba enfrentada de Destreza vs Percepción).
+- **Acciones:**
+  - **Arañazo:** +5 al ataque, 1d4+3 daño cortante.
+
+**Mariposa de Medianoche**
+- Bestia sombría diminuta, sin alineamiento
+- CA: 14
+- PG: 5 (2d4)
+- Velocidad: 10 pies, volar 40 pies
+- FUE: 2 (-4), DES: 18 (+4), CON: 10 (+0), INT: 1 (-5), SAB: 12 (+1), CAR: 14 (+2)
+- **Distracción Ilusoria:** Una vez por descanso corto, puede crear una imagen ilusoria que da desventaja a ataques contra aliados adyacentes hasta el inicio de su siguiente turno.
+- **Acciones:**
+  - **Polvo de Sombras:** Una criatura en 5 pies debe superar Constitución CD 12 o quedar cegada hasta el final de su siguiente turno.
+
 ### Formas de Sombra de Nivel 2
 
 **Lobo Terrible Sombrío**
@@ -121,6 +165,48 @@
 - **Acciones:**
   - **Mordisco:** Ataque con Arma Cuerpo a Cuerpo: +5 para golpear, alcance 5 pies, un objetivo. Impacto: 8 (1d10 + 3) de daño perforante.
   - **Garra:** Ataque con Arma Cuerpo a Cuerpo: +7 para golpear, alcance 5 pies, un objetivo. Impacto: 8 (1d6 + 5) de daño cortante.
+
+**Zorro Niebla**
+- Bestia sombría pequeña, sin alineamiento
+- CA: 15
+- PG: 18 (4d6 + 4)
+- Velocidad: 40 pies
+- FUE: 7 (-2), DES: 18 (+4), CON: 12 (+1), INT: 4 (-3), SAB: 13 (+1), CAR: 10 (+0)
+- **Desvanecimiento:** Como reacción al recibir daño, puede volverse invisible hasta el inicio de su siguiente turno (1 vez por descanso corto).
+- **Acciones:**
+  - **Mordisco:** +6 al ataque, 1d6+4 daño perforante.
+
+**Caracol Sombrío**
+- Bestia sombría pequeña, sin alineamiento
+- CA: 16 (caparazón)
+- PG: 14 (4d6)
+- Velocidad: 15 pies
+- FUE: 10 (+0), DES: 8 (-1), CON: 16 (+3), INT: 1 (-5), SAB: 11 (+0), CAR: 2 (-4)
+- **Rastro Lento:** Deja un área de 5 pies de ancho tras de sí; esa zona es terreno difícil para criaturas excepto él.
+- **Caparazón Reforzado:** Resistencia al daño contundente.
+- **Acciones:**
+  - **Embate:** +3 al ataque, 1d8+1 daño contundente.
+
+**Escorpión Crepuscular**
+- Bestia sombría pequeña, sin alineamiento
+- CA: 14
+- PG: 13 (3d6 + 3)
+- Velocidad: 30 pies, trepar 30 pies
+- FUE: 8 (-1), DES: 16 (+3), CON: 13 (+1), INT: 2 (-4), SAB: 10 (+0), CAR: 3 (-4)
+- **Pinza Fuerte:** Si impacta, puede agarrar (CD 10 Fuerza para escapar).
+- **Aguijón Venenoso:** Si impacta, el objetivo debe superar salvación de Constitución CD 12 o queda envenenado durante 1 minuto.
+- **Acciones:**
+  - **Aguijón:** +5 al ataque, 1d6+3 daño perforante.
+
+**Musaraña de Sombra**
+- Bestia sombría diminuta, sin alineamiento
+- CA: 15
+- PG: 9 (3d4 + 2)
+- Velocidad: 35 pies, trepar 20 pies
+- FUE: 3 (-4), DES: 17 (+3), CON: 12 (+1), INT: 2 (-4), SAB: 10 (+0), CAR: 5 (-3)
+- **Invisibilidad Fugaz:** Puede volverse invisible como acción adicional por 1 turno, una vez por descanso corto.
+- **Acciones:**
+  - **Mordisco:** +5 al ataque, 1d4+3 daño perforante.
 
 ### Formas de Sombra de Nivel 3
 
@@ -182,6 +268,48 @@
 - **Acciones:**
   - **Ataque Múltiple:** El elemental realiza dos ataques de toque sombrío.
   - **Toque Sombrío:** Ataque con Arma Cuerpo a Cuerpo: +7 para golpear, alcance 5 pies, un objetivo. Impacto: 12 (2d6 + 5) de daño por frío más 5 (1d10) de daño necrótico.
+ 
+**Grifo Sombrío**
+- Bestia sombría grande, sin alineamiento
+- CA: 16
+- PG: 45 (6d10 + 12)
+- Velocidad: 30 pies, volar 80 pies
+- FUE: 18 (+4), DES: 15 (+2), CON: 15 (+2), INT: 4 (-3), SAB: 13 (+1), CAR: 8 (-1)
+- Habilidades: Percepción +5
+- **Ataque en Picado:** Si vuela al menos 20 pies en línea recta y ataca con garras, inflige 2d6 daño adicional.
+- **Acciones:**
+  - **Mordisco:** +6 al ataque, 2d8+4 daño perforante.
+  - **Garras:** +6 al ataque, 2d6+4 daño cortante.
+
+**Salamandra de Sombra**
+- Bestia sombría mediana, sin alineamiento
+- CA: 15
+- PG: 48 (9d8 + 9)
+- Velocidad: 30 pies, trepar 20 pies
+- FUE: 16 (+3), DES: 14 (+2), CON: 13 (+1), INT: 2 (-4), SAB: 10 (+0), CAR: 7 (-2)
+- **Aliento de Sombras (Recarga 5-6):** Exhala un cono de 15 pies, criaturas en la zona hacen salvación de Destreza CD 13 o reciben 4d6 daño necrótico (mitad en éxito).
+- **Acciones:**
+  - **Mordisco:** +5 al ataque, 2d6+3 daño perforante.
+
+**Caballo Nocturno**
+- Bestia sombría grande, sin alineamiento
+- CA: 15
+- PG: 40 (6d10 + 6)
+- Velocidad: 60 pies
+- FUE: 18 (+4), DES: 14 (+2), CON: 13 (+1), INT: 2 (-4), SAB: 12 (+1), CAR: 7 (-2)
+- **Cabalga la Sombra:** Puede atravesar obstáculos no mágicos como si fueran terreno difícil.
+- **Acciones:**
+  - **Cascos:** +6 al ataque, 2d6+4 daño contundente.
+
+**Lechuza Umbría**
+- Bestia sombría mediana, sin alineamiento
+- CA: 14
+- PG: 33 (6d8 + 6)
+- Velocidad: 10 pies, volar 70 pies
+- FUE: 10 (+0), DES: 18 (+4), CON: 12 (+1), INT: 3 (-4), SAB: 16 (+3), CAR: 8 (-1)
+- **Mirada Aturdidora (Recarga 5-6):** Una criatura a menos de 10 pies debe superar salvación de Sabiduría CD 13 o quedar aturdida hasta el final de su siguiente turno.
+- **Acciones:**
+  - **Garras:** +6 al ataque, 2d4+4 daño cortante.
 
 ### Formas de Sombra de Nivel 4
 
@@ -243,6 +371,36 @@
 - **Trepar Como Araña:** La araña puede trepar superficies difíciles, incluso boca abajo en techos, sin necesidad de hacer una prueba de habilidad.
 - **Acciones:**
   - **Mordisco:** Ataque con Arma Cuerpo a Cuerpo: +6 para golpear, alcance 5 pies, una criatura. Impacto: 11 (2d6 + 4) de daño perforante, y el objetivo debe hacer una tirada de salvación de Constitución CD 14, recibiendo 18 (4d8) de daño por veneno en caso de fallar, o la mitad de daño si tiene éxito. Si el daño por veneno reduce al objetivo a 0 puntos de golpe, el objetivo está estable pero envenenado durante 1 hora, incluso después de recuperar puntos de golpe, y está paralizado mientras esté envenenado de esta manera.
+ 
+**Gorila de Sombra**
+- Bestia sombría grande, sin alineamiento
+- CA: 15
+- PG: 72 (8d10 + 24)
+- Velocidad: 40 pies, trepar 30 pies
+- FUE: 20 (+5), DES: 14 (+2), CON: 16 (+3), INT: 3 (-4), SAB: 12 (+1), CAR: 7 (-2)
+- **Golpe de Tinieblas:** Puede atacar a dos criaturas adyacentes con un solo ataque de puño.
+- **Acciones:**
+  - **Puños:** +8 al ataque, 2d10+5 daño contundente.
+
+**Águila Espectral**
+- Bestia sombría grande, sin alineamiento
+- CA: 16
+- PG: 60 (8d10 + 16)
+- Velocidad: 10 pies, volar 90 pies
+- FUE: 19 (+4), DES: 17 (+3), CON: 14 (+2), INT: 3 (-4), SAB: 15 (+2), CAR: 10 (+0)
+- **Grito de la Tempestad (1/día):** Todas las criaturas a 30 pies hacen salvación de Sabiduría CD 15 o quedan asustadas hasta final de su siguiente turno.
+- **Acciones:**
+  - **Garras:** +7 al ataque, 2d8+4 daño cortante.
+
+**Cocodrilo Abismal**
+- Bestia sombría grande, sin alineamiento
+- CA: 16
+- PG: 85 (10d10 + 30)
+- Velocidad: 30 pies, nadar 40 pies
+- FUE: 21 (+5), DES: 12 (+1), CON: 17 (+3), INT: 2 (-4), SAB: 12 (+1), CAR: 7 (-2)
+- **Mordida Atrapaalmas:** Si reduce a 0 PG a un objetivo, recupera 10 PG.
+- **Acciones:**
+  - **Mordisco:** +8 al ataque, 3d8+5 daño perforante.
 
 ### Formas de Sombra de Nivel 5
 
@@ -297,6 +455,37 @@
   - **Ataque Múltiple:** El gólem realiza dos ataques de golpe.
   - **Golpe:** Ataque con Arma Cuerpo a Cuerpo: +9 para golpear, alcance 5 pies, un objetivo. Impacto: 18 (3d8 + 5) de daño contundente.
   - **Onda de Sombra (Recarga 5-6):** El gólem libera una onda de energía sombría en un radio de 15 pies. Cada criatura en esa área debe hacer una tirada de salvación de Constitución CD 16, recibiendo 27 (6d8) de daño necrótico en caso de fallar, o la mitad de daño si tiene éxito.
+ 
+**Oso Sombrío Colosal**
+- Bestia sombría enorme, sin alineamiento
+- CA: 17
+- PG: 120 (16d12 + 32)
+- Velocidad: 40 pies, trepar 20 pies
+- FUE: 26 (+8), DES: 12 (+1), CON: 16 (+3), INT: 2 (-4), SAB: 12 (+1), CAR: 7 (-2)
+- **Ira de Sombra:** Si recibe daño, obtiene ventaja en su próximo ataque.
+- **Acciones:**
+  - **Zarpazo:** +12 al ataque, 3d10+8 daño cortante.
+
+**Mantícora Nocturna**
+- Monstruosidad sombría grande, sin alineamiento
+- CA: 16
+- PG: 95 (10d10 + 40)
+- Velocidad: 30 pies, volar 60 pies
+- FUE: 19 (+4), DES: 16 (+3), CON: 18 (+4), INT: 7 (-2), SAB: 12 (+1), CAR: 8 (-1)
+- **Lluvia de Púas:** Puede atacar a tres objetivos diferentes en el mismo turno con púas (alcance 60 pies, 1d10+3 daño perforante cada una).
+- **Acciones:**
+  - **Mordisco:** +7 al ataque, 2d8+4 daño perforante.
+  - **Garras:** +7 al ataque, 2d6+4 daño cortante.
+
+**Ciempiés de Penumbra**
+- Bestia sombría grande, sin alineamiento
+- CA: 17
+- PG: 102 (12d10 + 36)
+- Velocidad: 40 pies, trepar 40 pies
+- FUE: 18 (+4), DES: 17 (+3), CON: 16 (+3), INT: 1 (-5), SAB: 12 (+1), CAR: 6 (-2)
+- **Veneno Paralizante:** Quien reciba mordisco debe hacer salvación de Constitución CD 15 o quedar paralizado 1d4 turnos.
+- **Acciones:**
+  - **Mordisco:** +7 al ataque, 2d8+4 daño perforante.
 
 ### Formas de Sombra de Nivel 6
 
@@ -354,6 +543,37 @@
   - **Espada a Dos Manos:** Ataque con Arma Cuerpo a Cuerpo: +9 para golpear, alcance 5 pies, un objetivo. Impacto: 12 (2d6 + 5) de daño cortante más 9 (2d8) de daño necrótico.
   - **Arco Largo:** Ataque con Arma a Distancia: +6 para golpear, alcance 150/600 pies, un objetivo. Impacto: 7 (1d8 + 2) de daño perforante más 9 (2d8) de daño necrótico.
   - **Estallido Sombrío (Recarga 5-6):** El campeón libera una oleada de energía sombría. Cada criatura en un radio de 15 pies alrededor del campeón debe hacer una tirada de salvación de Constitución CD 16, recibiendo 22 (5d8) de daño necrótico en caso de fallar, o la mitad de daño si tiene éxito.
+
+**Serpiente Marina de Sombra**
+- Bestia sombría enorme, sin alineamiento
+- CA: 18
+- PG: 165 (18d12 + 54)
+- Velocidad: 20 pies, nadar 80 pies
+- FUE: 24 (+7), DES: 15 (+2), CON: 17 (+3), INT: 2 (-4), SAB: 14 (+2), CAR: 9 (-1)
+- **Abrazo Abisal:** Si impacta con mordisco, puede iniciar un agarre (CD 18 para escapar).
+- **Acciones:**
+  - **Mordisco:** +11 al ataque, 4d10+7 daño perforante.
+
+**León Fantasmal**
+- Bestia sombría grande, sin alineamiento
+- CA: 18
+- PG: 140 (16d10 + 48)
+- Velocidad: 60 pies
+- FUE: 22 (+6), DES: 19 (+4), CON: 16 (+3), INT: 4 (-3), SAB: 14 (+2), CAR: 15 (+2)
+- **Rugido Aterrador (Recarga 5-6):** Todas las criaturas a 30 pies deben pasar salvación de Sabiduría CD 16 o quedar asustadas 1 minuto.
+- **Acciones:**
+  - **Mordisco:** +10 al ataque, 3d10+6 daño perforante.
+  - **Garras:** +10 al ataque, 2d8+6 daño cortante.
+
+**Águila de Eclipse**
+- Bestia sombría enorme, sin alineamiento
+- CA: 19
+- PG: 150 (15d12 + 60)
+- Velocidad: 20 pies, volar 120 pies
+- FUE: 24 (+7), DES: 18 (+4), CON: 18 (+4), INT: 3 (-4), SAB: 15 (+2), CAR: 10 (+0)
+- **Tormenta de Plumas:** Puede atacar a todos los enemigos en un área de 20 pies (cada uno hace salvación de Destreza CD 17, recibe 6d8 daño cortante o mitad si supera).
+- **Acciones:**
+  - **Garras:** +11 al ataque, 3d8+7 daño cortante.
 
 ### Formas de Sombra de Nivel 7
 
@@ -417,6 +637,36 @@
   -	**Tajo:** Ataque con Arma Cuerpo a Cuerpo: +9 para golpear, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) de daño cortante más 21 (6d6) de daño necrótico. Si el objetivo es una criatura, su máximo de puntos de golpe se reduce en una cantidad igual al daño necrótico recibido. Esta reducción dura hasta que la criatura termina un descanso prolongado. El objetivo muere si este efecto reduce su máximo de puntos de golpe a 0.
   -	**Drenar Vida (Recarga 5-6):** El aparecido apunta a hasta tres criaturas que pueda ver a menos de 30 pies. Cada objetivo debe realizar una tirada de salvación de Constitución CD 17. En caso de fallar, un objetivo recibe 21 (6d6) de daño necrótico, y el aparecido recupera puntos de golpe igual al total del daño necrótico causado. En caso de éxito, un objetivo recibe la mitad de daño y el aparecido no recupera puntos de golpe.
 
+**Lobo Lunar Colosal**
+- Bestia sombría enorme, sin alineamiento
+- CA: 20
+- PG: 210 (20d12 + 80)
+- Velocidad: 70 pies
+- FUE: 28 (+9), DES: 16 (+3), CON: 18 (+4), INT: 6 (-2), SAB: 16 (+3), CAR: 14 (+2)
+- **Aullido de la Niebla (1/día):** Todas las criaturas a 60 pies deben pasar salvación de Sabiduría CD 18 o quedar paralizadas 1 turno.
+- **Acciones:**
+  - **Mordisco:** +14 al ataque, 4d12+9 daño perforante.
+
+**Ciervo de las Sombras**
+- Bestia sombría enorme, sin alineamiento
+- CA: 19
+- PG: 195 (18d12 + 90)
+- Velocidad: 80 pies
+- FUE: 25 (+7), DES: 20 (+5), CON: 20 (+5), INT: 7 (-2), SAB: 18 (+4), CAR: 12 (+1)
+- **Embiste Fantasmal:** Puede atravesar criaturas ignorando ataques de oportunidad.
+- **Acciones:**
+  - **Cornada:** +12 al ataque, 4d10+7 daño perforante. Si impacta, el objetivo debe pasar salvación de Fuerza CD 19 o ser derribado.
+
+**Serpiente de Sombras Celestiales**
+- Bestia sombría enorme, sin alineamiento
+- CA: 21
+- PG: 222 (20d12 + 100)
+- Velocidad: 30 pies, volar 120 pies
+- FUE: 27 (+8), DES: 19 (+4), CON: 21 (+5), INT: 6 (-2), SAB: 14 (+2), CAR: 17 (+3)
+- **Aliento de Niebla Estelar (Recarga 5-6):** Cono de 60 pies, salvación de Destreza CD 19, 12d8 daño necrótico o mitad si supera.
+- **Acciones:**
+  - **Mordisco:** +14 al ataque, 5d8+8 daño perforante.
+
 ### Formas de Sombra de Nivel 8
 
 **Behemoth Sombrío**
@@ -477,6 +727,37 @@
   -	**Toque Parasitario:** Ataque con Hechizo Cuerpo a Cuerpo: +12 para golpear, alcance 5 pies, un objetivo. Impacto: 14 (4d6) de daño frío y 14 (4d6) de daño necrótico. El objetivo debe tener éxito en una tirada de salvación de Constitución CD 20 o quedar paralizado durante 1 minuto. El objetivo puede repetir la tirada de salvación al final de cada uno de sus turnos, terminando el efecto sobre sí mismo si tiene éxito.
   -	**Disrupción Arcana (Recarga 5-6):** El liche apunta a hasta tres criaturas que pueda ver a menos de 30 pies. Cada objetivo debe tener éxito en una tirada de salvación de Inteligencia CD 20 o el objetivo no podrá lanzar hechizos ni usar objetos mágicos durante 1 minuto. Una criatura afectada puede repetir la tirada de salvación al final de cada uno de sus turnos, terminando el efecto sobre sí misma si tiene éxito.
   -	**Invocar No-muertos (1/día):** El liche convoca mágicamente no-muertos sombríos con un valor total de desafío de hasta 8, que aparecen en espacios desocupados a menos de 60 pies del liche y permanecen durante 1 hora o hasta que el liche muere o los descarta como acción adicional.
+
+**Titán de la Niebla**
+- Monstruosidad sombría colosal, sin alineamiento
+- CA: 22
+- PG: 350 (28d12 + 168)
+- Velocidad: 50 pies
+- FUE: 30 (+10), DES: 14 (+2), CON: 24 (+7), INT: 8 (-1), SAB: 17 (+3), CAR: 15 (+2)
+- **Pisotón Sísmico (Recarga 5-6):** Todas las criaturas a 30 pies hacen salvación de Destreza CD 20 o reciben 10d10 daño contundente y quedan derribadas.
+- **Acciones:**
+  - **Puño:** +17 al ataque, 5d12+10 daño contundente.
+
+**Leviatán de Sombras**
+- Bestia sombría colosal, sin alineamiento
+- CA: 22
+- PG: 400 (32d12 + 192)
+- Velocidad: 30 pies, nadar 120 pies
+- FUE: 32 (+11), DES: 14 (+2), CON: 25 (+7), INT: 6 (-2), SAB: 18 (+4), CAR: 16 (+3)
+- **Maremoto Oscuro (Recarga 5-6):** Oleada de 100 pies, criaturas hacen salvación de Fuerza CD 21 o son arrastradas 50 pies y reciben 10d12 daño contundente.
+- **Acciones:**
+  - **Mordisco:** +17 al ataque, 6d12+11 daño perforante.
+  - **Aplastamiento:** +17 al ataque, 6d10+11 daño contundente.
+
+**Águila Solar Invertida**
+- Bestia sombría colosal, sin alineamiento
+- CA: 23
+- PG: 350 (28d12 + 168)
+- Velocidad: 30 pies, volar 200 pies
+- FUE: 29 (+9), DES: 20 (+5), CON: 23 (+6), INT: 8 (-1), SAB: 16 (+3), CAR: 20 (+5)
+- **Tormenta Eclipsal:** Descarga eléctrica y cegadora en un radio de 40 pies (salvación de Constitución CD 21, 10d10 daño radiante y ceguera 1 turno).
+- **Acciones:**
+  - **Garras:** +15 al ataque, 5d8+9 daño cortante.
 
 ### Formas de Sombra de Nivel 9
 
@@ -547,4 +828,41 @@
   -	**Teletransportación:** El demiliche usa Teletransportación.
   -	**Toque de Muerte:** El demiliche hace un ataque con Hechizo Cuerpo a Cuerpo contra un objetivo que pueda ver a menos de 5 pies de él: +12 para golpear, 21 (6d6) de daño necrótico y el objetivo debe tener éxito en una tirada de salvación de Constitución CD 19 o su máximo de puntos de golpe se reduce en una cantidad igual al daño recibido. Esta reducción dura hasta que la criatura termina un descanso prolongado. El objetivo muere si este efecto reduce su máximo de puntos de golpe a 0.
   -	**Ráfaga de Energía** (Cuesta 2 Acciones): El demiliche libera una ráfaga de energía negativa en un radio de 20 pies. Cada criatura en esa área debe hacer una tirada de salvación de Constitución CD 19, recibiendo 31 (9d6) de daño necrótico en caso de fallar, o la mitad de daño si tiene éxito.
+
+**Dragón Umbrío Primordial**
+- Dragón sombrío colosal, sin alineamiento
+- CA: 25
+- PG: 600 (40d12 + 320)
+- Velocidad: 40 pies, volar 150 pies
+- FUE: 35 (+12), DES: 18 (+4), CON: 26 (+8), INT: 20 (+5), SAB: 20 (+5), CAR: 26 (+8)
+- **Aliento Final:** cono de 120 pies, salvación de Constitución CD 24, 24d12 daño necrótico y reducción máxima de PG igual al daño recibido.
+- **Acciones Legendarias (3/turno):** Puede hacer un ataque de mordisco, cola o un rugido que asusta a todos a 120 pies (salvación de Sabiduría CD 22).
+- **Acciones:**
+  - **Mordisco:** +20 al ataque, 10d12+12 daño perforante.
+  - **Garras:** +20 al ataque, 8d10+12 daño cortante.
+  - **Cola:** +20 al ataque, 8d8+12 daño contundente.
+
+**Coloso de las Sombras Eternas**
+- Constructo sombrío colosal, sin alineamiento
+- CA: 24
+- PG: 700 (56d12 + 280)
+- Velocidad: 60 pies
+- FUE: 36 (+13), DES: 10 (+0), CON: 30 (+10), INT: 10 (+0), SAB: 18 (+4), CAR: 16 (+3)
+- **Tormenta de Ruina (Recarga 5-6):** Área de 120 pies, todos los enemigos hacen salvación de Destreza CD 24, 16d12 daño necrótico y quedan derribados.
+- **Acciones Legendarias (3/turno):** Puede hacer un ataque de puño, pisotón o lanzar una onda de energía oscura.
+- **Acciones:**
+  - **Puño:** +21 al ataque, 10d10+13 daño contundente.
+  - **Pisotón:** +21 al ataque, 10d8+13 daño contundente.
+
+**Fénix de Medianoche**
+- Bestia sombría colosal, sin alineamiento
+- CA: 23
+- PG: 520 (40d12 + 240)
+- Velocidad: 40 pies, volar 200 pies
+- FUE: 32 (+11), DES: 22 (+6), CON: 22 (+6), INT: 16 (+3), SAB: 18 (+4), CAR: 24 (+7)
+- **Resurrección Oscura (1/día):** Si muere, revive al siguiente turno con la mitad de sus PG y explota en un radio de 60 pies (20d10 daño necrótico, salvación de Destreza CD 23 mitad).
+- **Llama Tenebrosa:** Su ataque inflige daño de fuego necrótico adicional (2d12).
+- **Acciones:**
+  - **Picotazo:** +17 al ataque, 8d10+11 daño perforante.
+  - **Garras:** +17 al ataque, 8d8+11 daño cortante.
 
